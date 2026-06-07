@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "app.rabbitmq.exchange",
+      "type": "java.lang.String",
+      "description": "RabbitMQ exchange name."
+    },
+    {
+      "name": "app.jwt.secret",
+      "type": "java.lang.String",
+      "description": "JWT secret."
+    }
+  ]
+}
